@@ -1,2 +1,2 @@
 My first commit
-git hub
+updating from github and pulling
